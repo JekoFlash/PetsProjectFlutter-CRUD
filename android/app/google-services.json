@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "51092498855",
+    "project_id": "supakrit-somritjinda",
+    "storage_bucket": "supakrit-somritjinda.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51092498855:android:605c172427061eedc82e82",
+        "android_client_info": {
+          "package_name": "com.example.pets"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5lhx1b4F7NuR3mbZ_IN5xTFsSa44OiV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51092498855:android:e1888201330df8f2c82e82",
+        "android_client_info": {
+          "package_name": "com.example.supakritsomritjinda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5lhx1b4F7NuR3mbZ_IN5xTFsSa44OiV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
